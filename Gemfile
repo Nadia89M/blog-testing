@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'bootstrap-sass', '~>3.3.6'
-gem 'autoprefixer-rails', '~>6.3.7'
+gem 'autoprefixer-rails', '~> 9.4', '>= 9.4.7'
 
 gem 'guard', '~> 2.14.0'
 gem 'guard-rspec', '~> 4.7.2' 
