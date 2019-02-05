@@ -41,6 +41,8 @@ gem 'guard', '~> 2.14.0'
 gem 'guard-rspec', '~> 4.7.2' 
 gem 'guard-cucumber', '~> 2.1.2'
 
+gem 'devise', '~> 4.5'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3', '~> 1.3.6'
